@@ -1,16 +1,17 @@
-### Hi there 👋
+![welcome to my twisted fucking github profile :)](diceprofile.jpg)
 
-<!--
-**75369/75369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, the name's Reagan. I mostly just use this for mirroring shit from [my Gitea instance](https://git.feargarden.xyz/reactor) in case I fuck up my server lol.
 
-Here are some ideas to get you started:
+### epic links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✞ [feargarden.xyz](https://feargarden.xyz) is my personal site.
+
+✞ [scenecore.net](https://scenecore.net) is my Pleroma/fediverse instance. If you're using Mastodon, Pleroma, Misskey, or whatever else that uses Activitypub, then feel free to give me a follow at [@reag](https://scenecore.net/reag).
+
+### in the void...
+
+✞ Email: [reactor@systematic.love](mailto:reactor@systematic.love) or [reagan@feargarden.xyz](mailto:reagan@feargarden.xyz)
+
+✞ Matrix: [@reactor:blob.cat](https://matrix.to/#/@reactor:blob.cat)
+
+✞ Discord: tf is wrong with you
