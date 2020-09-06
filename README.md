@@ -1,4 +1,4 @@
-![welcome to my twisted fucking github profile :)](//raw.githubusercontent.com/75369/75369/master/diceprofile.jpg)
+![welcome to my twisted fucking github profile :)](https://raw.githubusercontent.com/75369/75369/master/diceprofile.jpg)
 
 Hi, the name's Reagan. I mostly just use this for mirroring shit from [my Gitea instance](https://git.feargarden.xyz/reactor) in case I fuck up my server lol.
 
