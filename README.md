@@ -6,12 +6,4 @@ Hi, the name's Reagan. I mostly just use this for mirroring shit from [my Gitea 
 
 ✞ [feargarden.xyz](https://feargarden.xyz) is my personal site.
 
-✞ [scenecore.net](https://scenecore.net) is my Pleroma/fediverse instance. If you're using Mastodon, Pleroma, Misskey, or whatever else that uses Activitypub, then feel free to give me a follow at [@reag](https://scenecore.net/reag).
-
-### in the void...
-
-✞ Email: [reactor@systematic.love](mailto:reactor@systematic.love) or [reagan@feargarden.xyz](mailto:reagan@feargarden.xyz)
-
-✞ Matrix: [@reactor:blob.cat](https://matrix.to/#/@reactor:blob.cat)
-
-✞ Discord: tf is wrong with you
+✞ [scenecore.net](https://scenecore.net) is my [Pleroma](https://pleroma.social)/[fediverse](https://fediverse.party/en/fediverse) instance. Feel free to give me a follow at [@reag](https://scenecore.net/reag).
