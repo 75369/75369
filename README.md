@@ -5,8 +5,6 @@
     <br>
     <a href="mailto:reagan@fear.garden">email</a>
     <br>
-    <a href="https://systematic.love/nyarlathotep">fediverse</a>
-    <br>
     <a href="https://reagnyan.moe">neocities</a>
     <br>
 </p>
